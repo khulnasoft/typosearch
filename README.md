@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://typosearch.org"><img src="assets/typosearch_logo.svg" alt="Typosearch" width="298" /></a> 
-</p>
-<p align="center">
   Typosearch is a fast, typo-tolerant search engine for building delightful search experiences.
 </p>
 
